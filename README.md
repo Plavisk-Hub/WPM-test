@@ -1,7 +1,10 @@
 THIS IS A TERMINAL BASED TYPING TEST
  Features;
+
 	- Random Selected Categories based on percentage
+	
 	- Shows you how many times you have scored one of the categories correctly ( inside 'config.json' )
+	
 	- Decent User Experience powered by Rich
 
  Installing Dependencies;
