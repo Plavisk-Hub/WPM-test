@@ -8,11 +8,15 @@ THIS IS A TERMINAL BASED TYPING TEST
 	
 	- Decent User Experience powered by Rich
 
+
  Installing Dependencies;
+
 	```Bash
 	py -m pip install rich
 	```
+	
  Running the game
+	
 	```Bash
 	py main.py
 	```
