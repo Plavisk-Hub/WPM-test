@@ -11,13 +11,13 @@ THIS IS A TERMINAL BASED TYPING TEST
 
  Installing Dependencies;
 
-	```Bash
+	```bash
 	py -m pip install rich
 	```
 	
  Running the game
 	
-	```Bash
+	```bash
 	py main.py
 	```
 
