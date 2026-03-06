@@ -1,4 +1,5 @@
 THIS IS A TERMINAL BASED TYPING TEST
+
  Features;
 
 	- Random Selected Categories based on percentage
